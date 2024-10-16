@@ -1,0 +1,8 @@
+gradio
+google-play-scraper
+transformers
+top2vec
+matplotlib
+wordcloud
+pandas
+torch==2.0.1+cpu 
